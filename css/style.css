@@ -8,7 +8,14 @@ body{
 }
 .white{
     color: white;
+    font-family: 'Montserrat Bold', arial;
+    font-size: 20px;
 }
 .title{
-    font-family: 'Montserrat Bold', arial;
+    padding-left: 24%;
+    padding-top: 79px;
+    margin: 0px;
+}
+li{
+    display: inline-block;
 }
