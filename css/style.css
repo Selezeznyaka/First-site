@@ -1,5 +1,6 @@
 .bg{
     background-size: cover;
+    height: 970px;
     background-color: #66ccff;
 }
 body{
@@ -11,36 +12,31 @@ body{
     font-size: 20px;
 }
 .title{
-    padding-left: 23%;
+    padding-left: 21%;
     padding-top: 28px;
     margin: 0px;
     float: left;
     font-size: 32px;
 }
-li{
-    display: inline-block;
-}
 .title2{
-    padding-left: 51%;
+    padding-right: 10%;
     padding-top: 40px;
     margin: 0px;
+    text-align: right;
 }
 .li{
     margin-right: 10px;
-}
-.li:hover{
-    text-decoration: underline;
+    display: inline-block;
 }
 a{
     text-decoration: none;
-    color: white;
 }
 .dropdown {
     position: relative;
     display: inline-block;
   }
-  
-  .dropdown-content {
+
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: white;
@@ -48,15 +44,50 @@ a{
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
     z-index: 1;
-  }
+}
   
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  p{
-      color: black;
-  }
-  .dropdown-content-hover:hover{
-      background-color: #66ccff;
-      color: white;
-  }
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+p{
+  color: black;
+}
+.dm{
+    text-align: center;
+    margin-top: 300px;
+}
+.dm1{
+    font-size:60px;
+    color:white;
+    margin-bottom: -15px;
+    
+}
+.border-li:hover{
+    border-bottom: 3px solid white;
+}
+.border-li{
+    border-bottom: 4px solid #66ccff;
+    padding-bottom: 10px;
+}
+.strelka-vniz{
+    text-align: center;
+    color:white;
+    margin-top: 350px;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 38px;
+}
+.first-div{
+    background-size: cover;
+    height: 485px;
+    background-color: #f4f4f4;
+}
+.Two-strange-things{
+    margin-left: 16.7%;
+    margin-top: 96px;
+}
