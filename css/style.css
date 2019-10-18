@@ -47,10 +47,6 @@ a{
 .dropdown:hover .dropdown-content {
   display: block;
 }
-p{
-  color: black;
-  font-family: 'Montserrat Bold', arial;
-}
 .dm{
     text-align: center;
     margin-top: 300px;
@@ -106,5 +102,8 @@ p{
 .second-div{
     background-color: white;
     background-size: cover;
-    height: 600px;
+    height: 756px;
+}
+div{
+    border: 1px solid #33333300
 }
