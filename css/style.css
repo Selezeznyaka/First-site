@@ -78,7 +78,7 @@ a{
 }
 .first-div{
     background-size: cover;
-    height: 370Px;
+    height: 370px;
     background-color: #f4f4f4;
     border: 1px solid #33333300;
 }
@@ -109,7 +109,7 @@ div{
     border: 1px solid #33333300;;
 }
 .portfolio{
-    margin-top:110px; 
+    margin-top:70px; 
     padding-bottom: 5px; 
     border-bottom: 2px solid #666666; 
     text-align: center; 
@@ -142,7 +142,7 @@ div{
 }
 .trind-div{
     background-size: cover;
-    height: 700px;
+    height: 600px;
     background-color: #f4f4f4;
 }
 .skills{
@@ -171,4 +171,31 @@ footer{
     padding-top: 40px;
     padding-left: 10%;
     float: left;
+}
+.exp-div{
+    background-color: white;
+    background-size: cover;
+    height: 1000px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.VIEW{
+    margin-top:30px; 
+    padding: 10px;
+    border: 3px solid #66ccff; 
+    color: #66ccff;;
+    text-align: center; 
+    max-width: 270px; 
+    font-family: 'Montserrat Bold', sans-serif;
+    border-radius: 6%;
+    font-size: 25px;
+}
+.red-cyte{
+    background-color :#ff605f;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
 }
