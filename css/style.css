@@ -110,7 +110,7 @@ div{
 }
 .portfolio{
     margin-top:70px; 
-    padding-bottom: 5px; 
+    padding-bottom: 4px; 
     border-bottom: 2px solid #666666; 
     text-align: center; 
     max-width: 140px; 
@@ -198,4 +198,20 @@ footer{
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
+}
+.form{
+    background-size: cover;
+    height: 800px;
+    background-color: #f6f6f6;
+}
+.tableform{
+    border-radius: 5%;
+    background-color: white;
+    border: 2px solid #e7eaee
+}
+.tableform:hover{
+    border:3px solid #cad1d9
+}
+.tableform:active{
+    border:3px solid #88d3ff
 }
