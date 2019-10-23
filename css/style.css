@@ -203,15 +203,22 @@ footer{
     background-size: cover;
     height: 800px;
     background-color: #f6f6f6;
+    font-family: 'Montserrat Bold', sans-serif;
+    color: #d3d3d3;
 }
 .tableform{
-    border-radius: 5%;
+    border-radius: 9%;
     background-color: white;
-    border: 2px solid #e7eaee
+    border: 2px solid #e7eaee;
+    padding: 24px;
+    font-size: 20px;
+    margin: 10px;
+    max-width: 800px;
 }
 .tableform:hover{
-    border:3px solid #cad1d9
+    border:3px solid #cad1d9;
 }
 .tableform:active{
-    border:3px solid #88d3ff
+    border:3px solid #88d3ff;
+    color: #333333;
 }
