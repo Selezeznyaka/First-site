@@ -1,0 +1,228 @@
+.bg{
+    background-size: cover;
+    height: 970px;
+    background-color: #66ccff;
+}
+body{
+    margin: 0px;
+}
+.white{
+    color: white;
+    font-family: 'Montserrat Bold', sans-serif;
+    font-size: 20px;
+}
+.title{
+    padding-left: 21%;
+    padding-top: 35px;
+    margin: 0px;
+    float: left;
+    font-size: 32px;
+}
+.title2{
+    padding-right: 10%;
+    padding-top: 40px;
+    margin: 0px;
+    text-align: right;
+}
+.li{
+    margin-right: 10px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+} 
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dm{
+    text-align: center;
+    margin-top: 300px;
+}
+.dm1{
+    font-size:60px;
+    color:white;
+    margin-bottom: -15px;
+    
+}
+.border-li:hover{
+    border-bottom: 3px solid white;
+}
+.border-li{
+    border-bottom: 4px solid #66ccff;
+    padding-bottom: 10px;
+}
+.strelka-vniz{
+    text-align: center;
+    color:white;
+    margin-top: 350px;
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 38px;
+}
+.first-div{
+    background-size: cover;
+    height: 370px;
+    background-color: #f4f4f4;
+    border: 1px solid #33333300;
+}
+.Two-strange-things{
+    margin-left: 16.7%;
+    margin-top: 96px;
+    float: left;
+}
+.sopli{
+    color: #333333;
+    text-align: left;
+    float: right;
+    margin-right: 25%;
+    margin-top: 96px;
+    font-family: 'Montserrat Bold', sans-serif;
+    line-height: 40px;
+}
+.sopli2{
+    color: #666666;
+    line-height: 25px;  
+}
+.second-div{
+    background-color: white;
+    background-size: cover;
+    height: 1600px;
+}
+div{
+    border: 1px solid #33333300;;
+}
+.portfolio{
+    margin-top:70px; 
+    padding-bottom: 4px; 
+    border-bottom: 2px solid #666666; 
+    text-align: center; 
+    max-width: 140px; 
+    margin-right:auto; 
+    margin-left:auto;
+    font-family: 'Montserrat Bold', sans-serif;
+}
+.photo{
+    width: 300px;
+    height: 275px;
+    border-radius: 15%;
+    padding: 20px;
+}
+.d-portfolio{
+    margin-top:50px; 
+    padding: 4px; 
+    border: 4px solid #66ccff; 
+    color: #66ccff;;
+    text-align: center; 
+    max-width: 360px; 
+    margin-right:auto; 
+    margin-left:auto;
+    font-family: 'Montserrat Bold', sans-serif;
+    border-radius: 6%;
+}
+.map{
+    margin: -6px;
+    width: 100%;
+}
+.trind-div{
+    background-size: cover;
+    height: 600px;
+    background-color: #f4f4f4;
+}
+.skills{
+    text-align: center;
+    font-family: 'Montserrat Bold', sans-serif;
+    line-height: 40px;
+}
+.diagram{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background-color: #31333a;
+    background-size: cover;
+    height: 350px;
+    font-family: 'Montserrat Bold', sans-serif;
+    color:#545766;
+    font-size: 18px;
+}
+.footer-menu{
+    padding-top: 40px;
+    padding-left: 20%;
+    float: left;
+}
+.footer-contact{
+    padding-top: 40px;
+    padding-left: 10%;
+    float: left;
+}
+.exp-div{
+    background-color: white;
+    background-size: cover;
+    height: 1000px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.VIEW{
+    margin-top:30px; 
+    padding: 10px;
+    border: 3px solid #66ccff; 
+    color: #66ccff;;
+    text-align: center; 
+    max-width: 270px; 
+    font-family: 'Montserrat Bold', sans-serif;
+    border-radius: 6%;
+    font-size: 25px;
+}
+.red-cyte{
+    background-color :#ff605f;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+.form{
+    background-size: cover;
+    height: 800px;
+    background-color: #f4f4f4;
+    font-family: 'Open Sans', sans-serif;
+}
+.name{
+    border: 2px solid #ccccccec;
+    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+}
+.name:hover{
+    border: 2px solid #99ccff;
+    border-radius: 20px;
+}
+.loong{
+    border: 2px solid #e4e1e1;
+    border-radius: 20px;
+    width: 520px;
+    height: 50px;
+    margin-top: 10px
+}
+.loong:hover{
+    border: 2px solid #99ccff;
+    border-radius: 20px;
+}
